@@ -5,7 +5,7 @@ West Belfast, Northern Ireland
 Email: [add email] | Phone: [add phone] | LinkedIn/GitHub: [add links]
 Professional profile
 Independent systems architect and project developer with a practical background spanning software, AI governance, environmental systems, resource recovery, land management and humanitarian technology. Designs modular systems that connect data collection, engineering logic, carbon and environmental measurement, safety controls, provenance and human approval.
-Combines project-based Python and data engineering with hands-on operational knowledge of pesticide safety, spray application, golf-course land management, waste/recycling flows, water systems, energy use and community-focused technology. Strongest contribution is turning complex ideas into structured blueprints, testable records, controlled workflows and improvement plans.
+Combines project-based Python and data engineering with hands-on operational knowledge of pesticide safety, spray  application, golf-course land management, waste/recycling flows, water systems, energy use and community-focused technology. Strongest contribution is turning complex ideas into structured blueprints, testable records, controlled workflows and improvement plans.
 Currently developing independent prototypes and research systems. Production, clinical, regulated and safety-certified claims are made only where separate evidence supports them.
 Core capabilities
 Systems architecture and delivery
